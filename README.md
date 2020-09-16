@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,7 +43,7 @@
 	</section>
 	<footer>
 
-		<p> <img src="footer.png" />This page was created by Ruchir and Colleen van Lent. To learn more about web design, visit <a href="3">Intro to Web Design</a></p>
+		<p> <img src="http://www.intro-webdesign.com/images/newlogo.png" />This page was created by Ruchir and Colleen van Lent. To learn more about web design, visit <a href="3">Intro to Web Design</a></p>
 	</footer>
 </body>
 </html>
